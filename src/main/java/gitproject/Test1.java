@@ -12,7 +12,8 @@ public class Test1 {
 		}else {
 			System.out.println("Do work......");
 		}
-
+System.out.println(" new code have been changed");
 	}
+	
 
 }
